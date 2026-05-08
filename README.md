@@ -11,8 +11,7 @@
 
 ## What Is AICareMatch?
 
-AICareMatch is an AI-driven mental health matching platform that connects patients to the right providers — matching on condition, insurance, cost, availability, and telehealth access. Founded by Piyush Gade (PhD Economics, SUNY Albany), presented at RISE Demo Day October 2025.
-
+AICareMatch is an AI-driven mental health matching platform that connects patients to the right providers — matching on condition, insurance, cost, availability, and telehealth access. 
 **The platform addresses three interconnected crises in US mental health care:**
 - 61.5M adults with mental illness, most unable to find care
 - 50–60% provider burnout rate, 30–40% time lost to admin
