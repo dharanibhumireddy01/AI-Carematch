@@ -1,0 +1,63 @@
+COUNTY,STATE,REGION,TOTAL_POPULATION,TOTAL_HOUSEHOLDS,BROADBAND_25_3_COVERAGE_PCT,MOBILE_5G_NR_COVERAGE_PCT,UNSERVED_HOUSEHOLDS_PCT,UNSERVED_HOUSEHOLDS_COUNT,TELEHEALTH_CAPABLE_PCT,URBAN_RURAL,DATA_YEAR,SOURCE
+Albany,New York,Capital,308455,118636,83.6,46.8,16.4,19456,83.6,Urban,2024,FCC National Broadband Map 2024
+Allegany,New York,Southern Tier,46456,17867,52.0,15.4,48.0,8576,52.0,Rural,2024,FCC National Broadband Map 2024
+Bronx,New York,NYC,1379946,530748,94.5,75.2,5.5,29191,94.5,Urban,2024,FCC National Broadband Map 2024
+Broome,New York,Southern Tier,190800,73384,87.6,40.7,12.4,9099,87.6,Urban,2024,FCC National Broadband Map 2024
+Cattaraugus,New York,Western NY,77686,29879,36.9,30.1,63.1,18853,36.9,Rural,2024,FCC National Broadband Map 2024
+Cayuga,New York,Central NY,76576,29452,56.2,37.5,43.8,12899,56.2,Rural,2024,FCC National Broadband Map 2024
+Chautauqua,New York,Western NY,126903,48808,44.4,13.9,55.6,27137,44.4,Rural,2024,FCC National Broadband Map 2024
+Chemung,New York,Southern Tier,82942,31900,76.1,45.2,23.9,7624,76.1,Urban,2024,FCC National Broadband Map 2024
+Chenango,New York,Southern Tier,47207,18156,60.6,45.8,39.4,7153,60.6,Rural,2024,FCC National Broadband Map 2024
+Clinton,New York,North Country,81011,31158,79.2,39.5,20.8,6480,79.2,Rural,2024,FCC National Broadband Map 2024
+Columbia,New York,Capital,61570,23680,81.4,37.8,18.6,4404,81.4,Rural,2024,FCC National Broadband Map 2024
+Cortland,New York,Central NY,47307,18195,64.8,39.5,35.2,6404,64.8,Rural,2024,FCC National Broadband Map 2024
+Delaware,New York,Southern Tier,44135,16975,55.8,26.6,44.2,7502,55.8,Rural,2024,FCC National Broadband Map 2024
+Dutchess,New York,Hudson Valley,294218,113160,77.8,52.2,22.2,25121,77.8,Urban,2024,FCC National Broadband Map 2024
+Erie,New York,Western NY,951412,365927,89.0,62.2,11.0,40251,89.0,Urban,2024,FCC National Broadband Map 2024
+Essex,New York,North Country,36885,14186,80.2,47.6,19.8,2808,80.2,Rural,2024,FCC National Broadband Map 2024
+Franklin,New York,North Country,50022,19239,39.5,16.3,60.5,11639,39.5,Rural,2024,FCC National Broadband Map 2024
+Fulton,New York,Capital,53383,20531,38.7,31.2,61.3,12585,38.7,Rural,2024,FCC National Broadband Map 2024
+Genesee,New York,Western NY,57280,22030,60.3,43.7,39.7,8745,60.3,Rural,2024,FCC National Broadband Map 2024
+Greene,New York,Capital,47188,18149,65.8,44.3,34.2,6206,65.8,Rural,2024,FCC National Broadband Map 2024
+Hamilton,New York,North Country,4416,1698,62.8,24.4,37.2,631,62.8,Rural,2024,FCC National Broadband Map 2024
+Herkimer,New York,Mohawk Valley,61319,23584,64.3,40.1,35.7,8419,64.3,Rural,2024,FCC National Broadband Map 2024
+Jefferson,New York,North Country,119088,45803,67.0,27.7,33.0,15114,67.0,Rural,2024,FCC National Broadband Map 2024
+Kings,New York,NYC,2561225,985086,96.8,73.5,3.2,31522,96.8,Urban,2024,FCC National Broadband Map 2024
+Lewis,New York,North Country,26296,10113,60.0,39.8,40.0,4045,60.0,Rural,2024,FCC National Broadband Map 2024
+Livingston,New York,Finger Lakes,62914,24197,77.7,33.9,22.3,5395,77.7,Rural,2024,FCC National Broadband Map 2024
+Madison,New York,Central NY,70941,27285,60.4,45.5,39.6,10804,60.4,Rural,2024,FCC National Broadband Map 2024
+Monroe,New York,Finger Lakes,741770,285296,79.8,52.4,20.2,57629,79.8,Urban,2024,FCC National Broadband Map 2024
+Montgomery,New York,Mohawk Valley,49426,19010,45.7,16.9,54.3,10322,45.7,Rural,2024,FCC National Broadband Map 2024
+Nassau,New York,Long Island,1395774,536836,91.8,54.7,8.2,44020,91.8,Urban,2024,FCC National Broadband Map 2024
+New York,New York,NYC,1597451,614404,87.9,64.7,12.1,74342,87.9,Urban,2024,FCC National Broadband Map 2024
+Niagara,New York,Western NY,208236,80090,90.7,35.5,9.3,7448,90.7,Urban,2024,FCC National Broadband Map 2024
+Oneida,New York,Mohawk Valley,228671,87950,78.3,64.4,21.7,19085,78.3,Urban,2024,FCC National Broadband Map 2024
+Onondaga,New York,Central NY,476516,183275,83.2,61.9,16.8,30790,83.2,Urban,2024,FCC National Broadband Map 2024
+Ontario,New York,Finger Lakes,111156,42752,66.9,28.1,33.1,14150,66.9,Rural,2024,FCC National Broadband Map 2024
+Orange,New York,Hudson Valley,404632,155627,90.9,36.7,9.1,14162,90.9,Urban,2024,FCC National Broadband Map 2024
+Orleans,New York,Western NY,40468,15564,43.3,26.6,56.7,8824,43.3,Rural,2024,FCC National Broadband Map 2024
+Oswego,New York,Central NY,117124,45047,74.8,47.3,25.2,11351,74.8,Rural,2024,FCC National Broadband Map 2024
+Otsego,New York,Southern Tier,58550,22519,58.4,25.0,41.6,9367,58.4,Rural,2024,FCC National Broadband Map 2024
+Putnam,New York,Hudson Valley,99070,38103,89.8,69.5,10.2,3886,89.8,Urban,2024,FCC National Broadband Map 2024
+Queens,New York,NYC,2271440,873630,87.9,72.7,12.1,105709,87.9,Urban,2024,FCC National Broadband Map 2024
+Rensselaer,New York,Capital,158714,61043,93.4,37.2,6.6,4028,93.4,Urban,2024,FCC National Broadband Map 2024
+Richmond,New York,NYC,495747,190671,95.3,70.9,4.7,8961,95.3,Urban,2024,FCC National Broadband Map 2024
+Rockland,New York,Hudson Valley,335045,128863,90.6,70.4,9.4,12113,90.6,Urban,2024,FCC National Broadband Map 2024
+St. Lawrence,New York,North Country,107740,41438,43.3,21.1,56.7,23495,43.3,Rural,2024,FCC National Broadband Map 2024
+Saratoga,New York,Capital,234975,90375,88.6,73.3,11.4,10302,88.6,Urban,2024,FCC National Broadband Map 2024
+Schenectady,New York,Capital,155299,59730,82.2,36.9,17.8,10631,82.2,Urban,2024,FCC National Broadband Map 2024
+Schoharie,New York,Capital,31177,11991,70.4,44.4,29.6,3549,70.4,Rural,2024,FCC National Broadband Map 2024
+Schuyler,New York,Southern Tier,17631,6781,77.2,35.3,22.8,1546,77.2,Rural,2024,FCC National Broadband Map 2024
+Seneca,New York,Finger Lakes,33683,12955,37.6,12.3,62.4,8083,37.6,Rural,2024,FCC National Broadband Map 2024
+Steuben,New York,Southern Tier,93415,35928,68.2,32.9,31.8,11425,68.2,Rural,2024,FCC National Broadband Map 2024
+Suffolk,New York,Long Island,1525920,586892,89.3,67.9,10.7,62797,89.3,Urban,2024,FCC National Broadband Map 2024
+Sullivan,New York,Hudson Valley,79641,30631,59.1,26.5,40.9,12528,59.1,Rural,2024,FCC National Broadband Map 2024
+Tioga,New York,Southern Tier,48203,18539,80.2,33.9,19.8,3670,80.2,Rural,2024,FCC National Broadband Map 2024
+Tompkins,New York,Southern Tier,106003,40770,85.6,63.4,14.4,5870,85.6,Urban,2024,FCC National Broadband Map 2024
+Ulster,New York,Hudson Valley,177573,68297,92.6,63.3,7.4,5053,92.6,Urban,2024,FCC National Broadband Map 2024
+Warren,New York,Capital,68557,26368,56.3,39.3,43.7,11522,56.3,Rural,2024,FCC National Broadband Map 2024
+Washington,New York,Capital,61204,23540,57.6,44.3,42.4,9980,57.6,Rural,2024,FCC National Broadband Map 2024
+Wayne,New York,Finger Lakes,89918,34583,59.7,23.3,40.3,13936,59.7,Rural,2024,FCC National Broadband Map 2024
+Westchester,New York,Hudson Valley,1004457,386329,86.9,48.0,13.1,50609,86.9,Urban,2024,FCC National Broadband Map 2024
+Wyoming,New York,Western NY,39700,15269,80.4,25.0,19.6,2992,80.4,Rural,2024,FCC National Broadband Map 2024
+Yates,New York,Finger Lakes,24913,9581,69.7,40.1,30.3,2903,69.7,Rural,2024,FCC National Broadband Map 2024

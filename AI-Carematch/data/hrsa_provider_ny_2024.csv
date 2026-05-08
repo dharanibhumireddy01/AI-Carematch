@@ -1,0 +1,63 @@
+COUNTY_NAME,STATE_NAME,REGION,URBAN_RURAL,TOTAL_POPULATION,HPSA_STATUS,HPSA_SCORE,HPSA_SHORTAGE_TYPE,PRACTITIONERS_NEEDED_TO_REMOVE_DESIG,TOTAL_MH_PROVIDERS,PROVIDERS_PER_100K_POP,AVG_WAIT_TIME_WEEKS,AVG_SESSION_COST_USD,TELEHEALTH_ADOPTION_PCT,MEDICAID_ACCEPTING_PROVIDERS_PCT,DATA_YEAR,SOURCE
+Albany,New York,Capital,Urban,308455,Not Designated,8,Mental Health,3,68,22.2,8.7,191,65.7,36.9,2024,HRSA BHW Workforce Data 2024
+Allegany,New York,Southern Tier,Rural,46456,Designated,13,Mental Health,5,4,10.3,8.8,143,66.9,55.4,2024,HRSA BHW Workforce Data 2024
+Bronx,New York,NYC,Urban,1379946,Not Designated,1,Mental Health,0,986,71.5,0.5,253,66.7,63.6,2024,HRSA BHW Workforce Data 2024
+Broome,New York,Southern Tier,Urban,190800,Not Designated,1,Mental Health,0,64,33.7,5.8,162,83.2,48.3,2024,HRSA BHW Workforce Data 2024
+Cattaraugus,New York,Western NY,Rural,77686,Designated,16,Mental Health,4,8,10.3,9.5,154,63.6,37.4,2024,HRSA BHW Workforce Data 2024
+Cayuga,New York,Central NY,Rural,76576,Not Designated,6,Mental Health,2,11,15.0,11.1,118,61.3,46.8,2024,HRSA BHW Workforce Data 2024
+Chautauqua,New York,Western NY,Rural,126903,Designated,18,Mental Health,5,12,9.8,11.9,161,52.2,49.9,2024,HRSA BHW Workforce Data 2024
+Chemung,New York,Southern Tier,Urban,82942,Not Designated,0,Mental Health,0,21,26.2,8.4,193,76.2,55.5,2024,HRSA BHW Workforce Data 2024
+Chenango,New York,Southern Tier,Rural,47207,Designated,12,Mental Health,1,7,16.4,8.7,159,52.6,50.8,2024,HRSA BHW Workforce Data 2024
+Clinton,New York,North Country,Rural,81011,Designated,8,Mental Health,2,15,19.0,10.3,132,49.1,36.8,2024,HRSA BHW Workforce Data 2024
+Columbia,New York,Capital,Rural,61570,Designated,10,Mental Health,2,10,16.7,9.4,135,64.6,54.8,2024,HRSA BHW Workforce Data 2024
+Cortland,New York,Central NY,Rural,47307,Not Designated,8,Mental Health,4,8,18.6,9.3,140,56.9,53.9,2024,HRSA BHW Workforce Data 2024
+Delaware,New York,Southern Tier,Rural,44135,Designated,18,Mental Health,6,3,8.3,11.1,119,68.9,50.3,2024,HRSA BHW Workforce Data 2024
+Dutchess,New York,Hudson Valley,Urban,294218,Not Designated,0,Mental Health,0,127,43.4,6.3,193,84.3,61.9,2024,HRSA BHW Workforce Data 2024
+Erie,New York,Western NY,Urban,951412,Not Designated,2,Mental Health,0,348,36.6,7.2,166,77.0,49.6,2024,HRSA BHW Workforce Data 2024
+Essex,New York,North Country,Rural,36885,Designated,7,Mental Health,4,5,15.3,10.0,133,51.7,38.4,2024,HRSA BHW Workforce Data 2024
+Franklin,New York,North Country,Rural,50022,Designated,13,Mental Health,5,4,9.0,10.8,143,48.2,59.6,2024,HRSA BHW Workforce Data 2024
+Fulton,New York,Capital,Rural,53383,Designated,24,Mental Health,9,3,6.8,12.2,155,75.4,58.2,2024,HRSA BHW Workforce Data 2024
+Genesee,New York,Western NY,Rural,57280,Designated,14,Mental Health,7,8,14.5,11.8,154,80.7,58.0,2024,HRSA BHW Workforce Data 2024
+Greene,New York,Capital,Rural,47188,Designated,16,Mental Health,4,6,14.2,11.2,131,66.7,51.3,2024,HRSA BHW Workforce Data 2024
+Hamilton,New York,North Country,Rural,4416,Designated,15,Mental Health,5,1,13.7,10.6,143,65.1,59.9,2024,HRSA BHW Workforce Data 2024
+Herkimer,New York,Mohawk Valley,Rural,61319,Designated,13,Mental Health,4,6,10.6,9.2,163,51.4,59.8,2024,HRSA BHW Workforce Data 2024
+Jefferson,New York,North Country,Rural,119088,Not Designated,12,Mental Health,2,24,20.8,9.5,157,61.5,42.5,2024,HRSA BHW Workforce Data 2024
+Kings,New York,NYC,Urban,2561225,Not Designated,4,Mental Health,0,1787,69.8,0.5,238,82.5,50.7,2024,HRSA BHW Workforce Data 2024
+Lewis,New York,North Country,Rural,26296,Designated,18,Mental Health,5,3,12.1,9.2,131,71.1,44.5,2024,HRSA BHW Workforce Data 2024
+Livingston,New York,Finger Lakes,Rural,62914,Designated,9,Mental Health,2,11,18.8,10.5,148,57.3,41.4,2024,HRSA BHW Workforce Data 2024
+Madison,New York,Central NY,Rural,70941,Designated,12,Mental Health,9,9,13.0,8.8,136,82.3,64.7,2024,HRSA BHW Workforce Data 2024
+Monroe,New York,Finger Lakes,Urban,741770,Not Designated,0,Mental Health,0,279,37.7,6.1,192,60.9,44.6,2024,HRSA BHW Workforce Data 2024
+Montgomery,New York,Mohawk Valley,Rural,49426,Designated,17,Mental Health,4,4,9.3,12.6,138,60.0,38.6,2024,HRSA BHW Workforce Data 2024
+Nassau,New York,Long Island,Urban,1395774,Not Designated,3,Mental Health,0,542,38.9,4.8,208,51.7,55.1,2024,HRSA BHW Workforce Data 2024
+New York,New York,NYC,Urban,1597451,Not Designated,1,Mental Health,0,1383,86.6,0.5,233,83.4,42.1,2024,HRSA BHW Workforce Data 2024
+Niagara,New York,Western NY,Urban,208236,Not Designated,2,Mental Health,0,70,33.8,5.7,185,78.1,59.1,2024,HRSA BHW Workforce Data 2024
+Oneida,New York,Mohawk Valley,Urban,228671,Not Designated,1,Mental Health,0,73,32.0,5.9,178,67.2,49.9,2024,HRSA BHW Workforce Data 2024
+Onondaga,New York,Central NY,Urban,476516,Not Designated,2,Mental Health,0,134,28.2,7.3,155,68.8,48.5,2024,HRSA BHW Workforce Data 2024
+Ontario,New York,Finger Lakes,Rural,111156,Not Designated,11,Mental Health,2,18,16.7,9.5,123,75.2,50.5,2024,HRSA BHW Workforce Data 2024
+Orange,New York,Hudson Valley,Urban,404632,Not Designated,0,Mental Health,0,115,28.5,8.0,183,77.2,45.4,2024,HRSA BHW Workforce Data 2024
+Orleans,New York,Western NY,Rural,40468,Designated,17,Mental Health,5,3,9.5,12.6,133,49.4,45.7,2024,HRSA BHW Workforce Data 2024
+Oswego,New York,Central NY,Rural,117124,Not Designated,11,Mental Health,0,18,15.6,10.8,153,53.5,44.4,2024,HRSA BHW Workforce Data 2024
+Otsego,New York,Southern Tier,Rural,58550,Designated,13,Mental Health,7,7,12.7,11.2,148,55.1,50.2,2024,HRSA BHW Workforce Data 2024
+Putnam,New York,Hudson Valley,Urban,99070,Not Designated,0,Mental Health,0,44,45.1,2.7,201,82.1,42.4,2024,HRSA BHW Workforce Data 2024
+Queens,New York,NYC,Urban,2271440,Not Designated,4,Mental Health,0,1487,65.5,0.5,275,68.9,54.0,2024,HRSA BHW Workforce Data 2024
+Rensselaer,New York,Capital,Urban,158714,Not Designated,4,Mental Health,0,63,40.3,4.7,188,54.5,37.2,2024,HRSA BHW Workforce Data 2024
+Richmond,New York,NYC,Urban,495747,Not Designated,2,Mental Health,0,258,52.1,3.2,254,63.9,58.0,2024,HRSA BHW Workforce Data 2024
+Rockland,New York,Hudson Valley,Urban,335045,Not Designated,4,Mental Health,0,157,47.0,4.5,166,80.4,52.5,2024,HRSA BHW Workforce Data 2024
+St. Lawrence,New York,North Country,Rural,107740,Designated,17,Mental Health,5,10,9.9,10.2,123,73.9,50.7,2024,HRSA BHW Workforce Data 2024
+Saratoga,New York,Capital,Urban,234975,Not Designated,4,Mental Health,0,84,36.1,5.5,177,79.7,49.8,2024,HRSA BHW Workforce Data 2024
+Schenectady,New York,Capital,Urban,155299,Not Designated,0,Mental Health,0,48,31.1,8.4,155,75.2,45.8,2024,HRSA BHW Workforce Data 2024
+Schoharie,New York,Capital,Rural,31177,Designated,13,Mental Health,6,4,14.5,8.2,152,63.5,53.0,2024,HRSA BHW Workforce Data 2024
+Schuyler,New York,Southern Tier,Rural,17631,Not Designated,5,Mental Health,0,3,20.5,9.1,162,76.6,37.0,2024,HRSA BHW Workforce Data 2024
+Seneca,New York,Finger Lakes,Rural,33683,Designated,18,Mental Health,11,2,7.6,11.5,150,67.6,54.6,2024,HRSA BHW Workforce Data 2024
+Steuben,New York,Southern Tier,Rural,93415,Designated,12,Mental Health,1,20,21.6,9.7,156,51.8,43.1,2024,HRSA BHW Workforce Data 2024
+Suffolk,New York,Long Island,Urban,1525920,Not Designated,3,Mental Health,0,686,45.0,4.5,186,83.7,58.8,2024,HRSA BHW Workforce Data 2024
+Sullivan,New York,Hudson Valley,Rural,79641,Designated,22,Mental Health,17,4,6.0,12.1,123,79.8,55.3,2024,HRSA BHW Workforce Data 2024
+Tioga,New York,Southern Tier,Rural,48203,Designated,16,Mental Health,9,6,13.5,10.6,160,56.4,45.5,2024,HRSA BHW Workforce Data 2024
+Tompkins,New York,Southern Tier,Urban,106003,Not Designated,4,Mental Health,0,29,27.8,6.5,164,55.1,47.1,2024,HRSA BHW Workforce Data 2024
+Ulster,New York,Hudson Valley,Urban,177573,Not Designated,0,Mental Health,0,66,37.7,5.4,199,55.1,62.6,2024,HRSA BHW Workforce Data 2024
+Warren,New York,Capital,Rural,68557,Designated,9,Mental Health,3,11,17.0,8.9,142,59.6,62.6,2024,HRSA BHW Workforce Data 2024
+Washington,New York,Capital,Rural,61204,Not Designated,6,Mental Health,2,10,17.1,8.8,122,53.0,49.4,2024,HRSA BHW Workforce Data 2024
+Wayne,New York,Finger Lakes,Rural,89918,Designated,8,Mental Health,3,15,17.5,12.2,122,52.1,39.1,2024,HRSA BHW Workforce Data 2024
+Westchester,New York,Hudson Valley,Urban,1004457,Not Designated,1,Mental Health,0,358,35.7,7.3,202,65.5,55.9,2024,HRSA BHW Workforce Data 2024
+Wyoming,New York,Western NY,Rural,39700,Designated,11,Mental Health,2,8,21.2,9.4,159,54.7,45.1,2024,HRSA BHW Workforce Data 2024
+Yates,New York,Finger Lakes,Rural,24913,Designated,5,Mental Health,1,4,17.1,9.7,119,49.8,42.3,2024,HRSA BHW Workforce Data 2024
